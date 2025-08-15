@@ -21,10 +21,6 @@ Location-based policy user2
  Policy State
 - Enabled
 
- Screenshots
-- See `screenshots/user2_location_policy.png`
-- See `screenshots/user2_blocked_signin_log.png`
-
  Notes
 - Policy blocks sign-ins from Nigeria
 - Tested using another browser 
